@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ciao mondo!
-![](assets/images/logo-repubblica-italiana.svg?raw=true)
+image: ![image-title](assets/images/logo-repubblica-italiana.svg?raw=true){:class="img-responsive"}
 lang: it
 ref: hello-world
 categories: [categoria1]

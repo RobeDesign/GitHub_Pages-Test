@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ciao mondo!
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/1200px-Coca-Cola_logo.svg.png
 lang: it
 ref: hello-world
 categories: [categoria1]

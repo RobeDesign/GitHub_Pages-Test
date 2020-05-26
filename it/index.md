@@ -6,7 +6,7 @@ lang: it
 ref: homepage
 permalink: /
 order: 1
-image: ![GitHub Logo](assets/images/logo.png)
+image: ![GitHub Logo](../assets/images/logo.png)
 Format: ![Alt Text](url)
 ---
 

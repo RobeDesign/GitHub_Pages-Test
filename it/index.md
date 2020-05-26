@@ -10,7 +10,7 @@ order: 1
 
 {% include hero.html %}
 
-![image test](/github_pages-test/assets/images/b.svg)
+![image test](/github_pages-test/assets/images/b.svg){: .icon-b}
 <main class="container my-4" markdown="1">
 
 {% include posts.html %}

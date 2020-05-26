@@ -6,9 +6,9 @@ lang: it
 ref: homepage
 permalink: /
 order: 1
----
-![GitHub Logo](assets/images/logo.png)
+image: ![GitHub Logo](assets/images/logo.png)
 Format: ![Alt Text](url)
+---
 
 {% include hero.html %}
 

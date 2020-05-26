@@ -1,4 +1,3 @@
-![Logo](/github_pages-test/assets/images/b.svg)
 ---
 layout: default
 title: Titolo dell' homepage
@@ -11,6 +10,7 @@ order: 1
 
 {% include hero.html %}
 
+![image test](/github_pages-test/assets/images/b.svg)
 <main class="container my-4" markdown="1">
 
 {% include posts.html %}

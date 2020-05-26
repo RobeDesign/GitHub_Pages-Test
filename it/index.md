@@ -8,9 +8,10 @@ permalink: /
 order: 1
 ---
 
+![image test](/github_pages-test/assets/images/b.svg){: .icon-b}
+
 {% include hero.html %}
 
-![image test](/github_pages-test/assets/images/b.svg){: .icon-b}
 <main class="container my-4" markdown="1">
 
 {% include footer/footer-col-1.html %}

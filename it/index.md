@@ -14,7 +14,7 @@ order: 1
 
 <main class="container my-4" markdown="1">
 
-{% include footer/footer-col-1.html %}
+{% include post.html %}
 
 </main>
 

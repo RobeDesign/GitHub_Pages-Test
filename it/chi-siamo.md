@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Chi siamo
+title: Servizi
 lang: it
-ref: about-us
-permalink: /it/chi-siamo
+ref: services
+permalink: /it/servizi
 order: 2
 ---
 
-Pagina "chi siamo"
+Pagina "servizi"

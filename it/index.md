@@ -8,7 +8,7 @@ permalink: /
 order: 1
 ---
 
-![image test](/github_pages-test/assets/images/b.svg){: .icon-b}
+<!-- ![image test](/github_pages-test/assets/images/b.svg){: .icon-b} -->
 
 {% include hero.html %}
 
